@@ -1,4 +1,4 @@
-package com.atguigu.java8;
+package com.java8;
 
 public class OneMoreThings {
 
